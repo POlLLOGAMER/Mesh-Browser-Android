@@ -1,0 +1,6 @@
+{
+  "name": "Mesh Browser",
+  "description": "Navegador web descentralizado mediante red de malla encriptada punto a punto, optimizado para baja conectividad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
